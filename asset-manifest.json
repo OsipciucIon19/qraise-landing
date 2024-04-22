@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b2273f7.css",
-    "main.js": "/static/js/main.3130e1ab.js",
-    "index.html": "/index.html",
-    "main.1b2273f7.css.map": "/static/css/main.1b2273f7.css.map",
-    "main.3130e1ab.js.map": "/static/js/main.3130e1ab.js.map"
+    "main.css": "/qraise-landing/static/css/main.1b2273f7.css",
+    "main.js": "/qraise-landing/static/js/main.3130e1ab.js",
+    "index.html": "/qraise-landing/index.html",
+    "main.1b2273f7.css.map": "/qraise-landing/static/css/main.1b2273f7.css.map",
+    "main.3130e1ab.js.map": "/qraise-landing/static/js/main.3130e1ab.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2273f7.css",
